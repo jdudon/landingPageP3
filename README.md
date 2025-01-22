@@ -111,8 +111,79 @@ Allez dans Branch > Create Pull Request.
 Une fois la Pull Request créée, **attendez qu’elle soit fusionnée dans main**.
 
 #### 📋 Checklist pour chaque élève
- [] Créer une branche.
- [] Travailler sur une fonctionnalité.
- [] Faire un commit avec un message clair.
- [] Pousser vos modifications.
- [] Créer une Pull Request pour fusionner dans main.
+ - [ ] Créer une branche.
+ - [ ] Travailler sur une fonctionnalité.
+ - [ ] Faire un commit avec un message clair.
+ - [ ] Pousser vos modifications.
+ - [ ] Créer une Pull Request pour fusionner dans main.
+
+
+## Landing Page
+Vous allez devoir créer une landing Page pour présenter votre produit. 
+
+### Qu'est-ce qu'une landing page ?
+Une landing page est une page où les utilisateurs "atterrissent" après avoir cliqué sur un lien (dans une publicité, un email, ou une autre page). Son objectif principal est de convaincre les visiteurs d'accomplir une action spécifique, comme :
+
+- Acheter un produit,
+- S'inscrire à un service,
+- Télécharger un document,
+- Ou simplement en savoir plus sur un sujet.
+
+C’est une page clé dans le marketing digital, car elle est conçue pour transformer un visiteur en client potentiel ou en utilisateur.
+
+### Que trouve-t-on sur une landing page ?
+Une landing page doit être simple, attrayante, et orientée vers un seul objectif. Voici les éléments essentiels qu’elle doit contenir :
+
+1. **Un titre accrocheur** (headline)
+C'est la première chose que les visiteurs voient.
+Il doit attirer l’attention et expliquer en quelques mots ce que propose la page.
+Exemple : "Découvrez les meilleures recettes de saison !"
+2. **Un sous-titre** (optional)
+Fournit plus de détails sur le sujet ou l’objectif.
+Exemple : "Téléchargez notre ebook gratuit pour apprendre les bases."
+3. **Une image ou un visuel captivant**
+Les images attirent l’œil et permettent de communiquer rapidement une idée.
+Utilisez des images pertinentes, de bonne qualité, et optimisées pour le web.
+4. **Un texte clair et structuré**
+Explique les bénéfices ou les informations clés.
+Utilisez des phrases courtes, des listes à puces, et des mots simples.
+Exemple : "Avec notre guide, vous apprendrez :"
+À cuisiner comme un chef,
+À économiser du temps en cuisine.
+5. **Un appel à l'action** (Call-to-Action ou CTA)
+Un bouton ou un lien qui incite les visiteurs à passer à l'action.
+Exemple de CTA :
+"Téléchargez maintenant",
+"Inscrivez-vous gratuitement",
+"Découvrir nos offres".
+Ce bouton doit être visible et se démarquer (grâce à une couleur vive, par exemple).
+6. **Un formulaire** (facultatif)
+Si l’objectif est de collecter des informations (comme une adresse email), ajoutez un formulaire simple avec peu de champs :
+- Nom,
+- Email,
+- Message (facultatif).
+7. Des preuves de confiance (facultatif)
+Témoignages, avis d’utilisateurs, ou chiffres impressionnants pour convaincre les visiteurs.
+Exemple : "10 000+ clients satisfaits".
+8. Un footer clair
+Contient des informations supplémentaires comme :
+- Liens vers les réseaux sociaux,
+- Mentions légales ou termes et conditions,
+- Contacts ou coordonnées.
+
+#### Conseils pour une bonne landing page
+**Simplicité** : Évitez les distractions inutiles, concentrez-vous sur l’objectif.
+**Design cohérent** : Utilisez une palette de couleurs harmonieuse et une typographie lisible.
+**Rapidité de chargement** : Une page lente peut faire fuir les visiteurs.
+**Mobile-friendly** : Assurez-vous que la landing page s’affiche bien sur les téléphones.
+Exemple: https://yuka.io/
+
+### Veilles
+
+Allez faire des recherches sur des landing Pages existantes et inspirez-vous en.
+- https://dribbble.com/
+- https://www.awwwards.com/
+- https://www.pinterest.fr/
+- https://www.behance.net/
+- https://www.lapa.ninja/category/app/
+
