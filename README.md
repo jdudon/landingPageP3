@@ -72,6 +72,46 @@ Voici les fichiers que vous devrez gérer dans ce projet :
 
 ---
 
+## **🎨 Utilisation des Variables CSS**
+
+Pour garantir une cohérence dans le design, vous devez utiliser des **variables CSS** dans le fichier `style.css`. Ces variables doivent être définies pour au moins :
+
+- Les couleurs principales (ex. : arrière-plan, texte, boutons).
+- Les bordures (ex. : `border-radius` pour les coins arrondis).
+
+### Exemple de déclaration et d’utilisation :
+
+1. **Déclarer les variables CSS** :
+   Les variables sont définies dans le sélecteur `:root` pour qu’elles soient accessibles partout dans le fichier CSS.
+
+   ```css
+   :root {
+     --primary-color: #3498db; /* Couleur principale */
+     --secondary-color: #2ecc71; /* Couleur secondaire */
+     --border-radius: 10px; /* Rayon des bordures */
+   }
+   ```
+
+2. **Utiliser les variables CSS** :
+   Les variables sont appelées avec la fonction `var()` dans vos règles CSS.
+
+   ```css
+   body {
+     background-color: var(--primary-color);
+     color: var(--secondary-color);
+   }
+
+   button {
+     border-radius: var(--border-radius);
+     background-color: var(--primary-color);
+     color: white;
+   }
+   ```
+
+💡 **Astuce** : Si vous modifiez une variable dans `:root`, tous les éléments qui l’utilisent seront automatiquement mis à jour. Cela facilite grandement les ajustements de design.
+
+---
+
 ## **📄 Documentation attendue (documentation.html)**
 
 La page **documentation.html** doit contenir les sections suivantes :
@@ -139,3 +179,5 @@ Après vos recherches, discutez avec votre groupe pour :
 - [ ] Le projet est testé sur Live Server.
 
 ---
+
+
