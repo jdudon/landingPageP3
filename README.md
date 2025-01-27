@@ -103,6 +103,7 @@ Vous devez faire des recherches pour comprendre ce qu’est une landing page ré
   - Allez sur des plateformes comme **Dribbble** ou **Behance**.
   - Recherchez des exemples de landing pages et identifiez ce qui fonctionne bien en termes de design, typographie, couleurs et mise en page.
   **Liens:**
+        
         - https://dribbble.com/
         - https://www.awwwards.com/
         - https://www.pinterest.fr/
