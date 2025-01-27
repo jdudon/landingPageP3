@@ -104,11 +104,11 @@ Vous devez faire des recherches pour comprendre ce qu’est une landing page ré
   - Recherchez des exemples de landing pages et identifiez ce qui fonctionne bien en termes de design, typographie, couleurs et mise en page.
   **Liens:**
         
-        - https://dribbble.com/
-        - https://www.awwwards.com/
-        - https://www.pinterest.fr/
-        - https://www.behance.net/
-        - https://www.lapa.ninja/category/app/
+    - https://dribbble.com/
+    - https://www.awwwards.com/
+    - https://www.pinterest.fr/
+    - https://www.behance.net/
+    - https://www.lapa.ninja/category/app/
 
 ### 3. **Rapport de veille**
 Après vos recherches, discutez avec votre groupe pour :
