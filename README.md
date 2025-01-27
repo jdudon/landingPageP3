@@ -57,6 +57,7 @@ Voici les fichiers que vous devrez gérer dans ce projet :
 ```
 /project-root
 │
+├── medias/            # Le dossier contenant toutes les images
 ├── index.html         # La landing page principale
 ├── documentation.html # La page dédiée à la documentation
 ├── style.css          # Le fichier de style principal (CSS)
